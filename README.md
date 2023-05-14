@@ -3,8 +3,9 @@
 LANGUAGES & TOOLS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&theme=blueberry)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 <!--
 **YYGAO1/YYGAO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
