@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&pause=1000&color=BE9485&background=F4C2C200&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Angel;software+developer;looking+forward+to+meeting+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&pause=1000&color=BE9485&background=F4C2C200&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Angel;software+developer)](https://git.io/typing-svg)
 
 
 #### LANGUAGES & TOOLS
