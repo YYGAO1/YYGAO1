@@ -21,7 +21,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&theme=blueberry)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&bg_color=#f4c2c2)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
 <!--
