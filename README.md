@@ -1,9 +1,14 @@
 <!-- ### Hi there 👋 -->
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&pause=1000&color=BE9485&background=F4C2C200&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Angel;software+developer)](https://git.io/typing-svg)</p>
+<div align='center'>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&pause=1000&color=BE9485&background=F4C2C200&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Angel;software+developer)](https://git.io/typing-svg)
+  
+</div>
 
+<br />
 
 #### LANGUAGES & TOOLS
-<div>
+<div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -18,12 +23,18 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 </div>
  
+ <br /> 
+ 
 #### Stats
+<div align='center'>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)
 
+</div>
+  
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&)](https://github.com/anuraghazra/github-readme-stats)
- -->
 
 <!--
 **YYGAO1/YYGAO1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
