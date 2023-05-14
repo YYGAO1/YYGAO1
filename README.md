@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&pause=1000&color=BE9485&background=F4C2C200&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Angel;software+developer;looking+forward+to+meeting+you!)](https://git.io/typing-svg)
-
+&nbsp;
 #### LANGUAGES & TOOLS
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -17,7 +17,7 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
 </div>
   
-  
+ &nbsp; 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)
 
 
