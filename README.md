@@ -25,7 +25,6 @@
  
  <br /> 
  
-#### Stats
 <div align='center'>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)
