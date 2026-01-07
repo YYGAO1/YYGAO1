@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
-</div> -->
+<!-- /div> -->
  
  
 <!--  <br /> 
@@ -31,7 +31,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)
 
-</div> -->
+<!--/div> -->
   
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYGAO1&layout=donut&&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)](https://github.com/anuraghazra/github-readme-stats) -->
