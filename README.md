@@ -3,7 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&pause=1000&color=BE9485&background=F4C2C200&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Angel)](https://git.io/typing-svg)
   
-</div>
+<!-- </div>
 
 <!-- <br />
 
@@ -27,7 +27,7 @@
 <!--  <br /> 
  <br />  -->
  
-<div align='center'>
+<div align='center'> -->
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YYGAO1&show_icons=true&bg_color=fffefe&text_color=be9485&title_color=be9485&border_color=f4c2c2)
 
